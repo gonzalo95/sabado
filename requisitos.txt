@@ -1,0 +1,4 @@
+2 pantallas: login y una en blanco
+1.-no hacer nada
+2.-local storage
+3.-firebase
